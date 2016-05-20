@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cg.demo.test.AccountServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-05-20T08:50:56" hostname="DIN56001196" time="0.314">
+  <properties/>
+  <testcase name="withdrawShouldThrowInvalidAccountNumberIfAccountNumberIsNotValid" classname="com.cg.demo.test.AccountServiceTest" time="0.31"/>
+  <testcase name="whenAmountAndAccountNumberAreValidWithdrawShouldDeductTheBalance" classname="com.cg.demo.test.AccountServiceTest" time="0.002"/>
+  <testcase name="ifAmountPassedToWithdrawIsNegativeThenItShouldThrowException" classname="com.cg.demo.test.AccountServiceTest" time="0.0"/>
+  <testcase name="test_showbalance" classname="com.cg.demo.test.AccountServiceTest" time="0.001"/>
+  <testcase name="ifAmountPassedIsGreaterThanBalanceThenWithdrawShouldThrowException" classname="com.cg.demo.test.AccountServiceTest" time="0.0"/>
+  <testcase name="test_valid_account_number" classname="com.cg.demo.test.AccountServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
